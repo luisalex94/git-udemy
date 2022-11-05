@@ -6,4 +6,6 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 ## Estos cambios son nuevos desde el ordenador
 
+## Nueva huerfana 11:31 am
+
 Estos cambios los hicimos desde el ordenador.
